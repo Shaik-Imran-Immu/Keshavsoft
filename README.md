@@ -2,7 +2,7 @@
 
 ## 1. How I Built the Project Step by Step
 
-I started by creating a simple folder structure with three pages: `index.html` (Home), `about.html` (About/Services), and `contact.html` (Contact). To keep things easy, I linked Bootstrap 5 through a CDN so I didn’t need to install anything.
+I started by creating a simple folder structure with three pages: `index.html` (Home), `about.html` (About), and `contact.html` (Contact). I linked Bootstrap 5 through a CDN.
 
 Next, I explored the Bootstrap documentation and examples. I picked out a few useful components like navbars, hero sections, cards, and forms. These became the building blocks of my website.
 
@@ -42,6 +42,3 @@ I also practiced version control with Git and GitHub, and learned how to host a 
 ## 5. Time Spent
 
 **Total time:** Around 30 minutes.
-
-**Submitted by:** \[Your Name]
-**Date:** \[Submission Date]
